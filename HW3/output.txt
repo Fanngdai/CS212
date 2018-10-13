@@ -1,0 +1,61 @@
+Last Name 	Lee
+Cuny First ID: 	64474100
+Birthday 	8 23 1836
+Mary Lee's Venus Login is invalid.
+
+Last Name 	Lee
+Cuny First ID: 	64474100
+Birthday 	8 23 1836
+Peter Peterson's Venus Login is invalid.
+
+Last Name 	Lee
+Cuny First ID: 	64474100
+Birthday 	8 23 1836
+Bob Peterson's Venus Login is invalid.
+
+Last Name 	Lee
+Cuny First ID: 	64474100
+Birthday 	8 23 1836
+Peter Lee's Venus Login is invalid.
+
+Last Name 	Lee
+Cuny First ID: 	64474100
+Birthday 	8 23 1836
+Peter Jackson's Venus Login is invalid.
+
+Last Name 	Lee
+Cuny First ID: 	64474100
+Birthday 	8 23 1836
+Bryan Peterson's Venus Login is invalid.
+
+Last Name 	Lee
+Cuny First ID: 	64474100
+Birthday 	8 23 1836
+Bryan Peterson's Venus Login is invalid.
+
+Last Name 	Lee
+Cuny First ID: 	64474100
+Birthday 	8 23 1836
+Bob Lee's Venus Login is invalid.
+
+Last Name 	Lee
+Cuny First ID: 	64474100
+Birthday 	8 23 1836
+Peter Peterson's Venus Login is invalid.
+
+Last Name 	Lee
+Cuny First ID: 	64474100
+Birthday 	8 23 1836
+Peter Peterson's Venus Login is invalid.
+
+Last Name 	Lee
+Cuny First ID: 	64474100
+Birthday 	8 23 1836
+Mary Lee's Venus Login is invalid.
+
+Last Name 	Lee
+Cuny First ID: 	64474100
+Birthday 	8 23 1836
+Bryan Lee's Venus Login is valid.
+
+All 12 students have been printed!
